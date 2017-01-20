@@ -1,0 +1,10 @@
+{
+  "name": "working-with-apis",
+  "version": "0.1.0",
+  "scripts": {
+    "present": "reveal-md content/deck.md"
+  },
+  "dependencies": {
+    "reveal-md": "0.0.32"
+  }
+}
