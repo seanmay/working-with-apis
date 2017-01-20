@@ -11,7 +11,7 @@ Content is in content folder, currently kept entirely in `deck.md`.
 
 ### TODO
 
-- Include a PDF-generation step
+- Include an optional PDF-generation build step
 - Move notes and exercises to accompanying docs
 - Add extra content skeletons for advanced or alternate talks
 - Use a different plugin or build-pipeline, to support markdown imports
